@@ -8,7 +8,7 @@
 
 Feel free to take a look at the `Scripts/` folder to take the `PlayerMovement.cs` and put it in your Unity project. 
 
-## The Control & Abilities
+# The Control & Abilities
 
 Note that you can always adapt the keys to your needs. To modify the main keys (AZERTY to QWERTY) in Unity, go to Edit > Project Settings > Input Manager > Axes and then modify the keys to the ones you choosed by opening the Horizontal and Vertical section.
 
@@ -24,7 +24,7 @@ Note that you can always adapt the keys to your needs. To modify the main keys (
 | `A`                       | Dash                  |
 | `Mouse button 0 (Left)`   | Use the grappling gun |
 
-## Getting Started & Install Unity
+# Getting Started & Install Unity
 * Head out to the [download section of Unity's website](https://unity3d.com/fr/get-unity/download).
 * Download [Unity Hub executable](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe).
 * Follow the actions recommended to install unity.
@@ -33,7 +33,7 @@ Note that you can always adapt the keys to your needs. To modify the main keys (
 
 <img src="README/how-to-launch-in-unity.png" width="1000px">
 
-## LICENSE
+# LICENSE
 ```
 MIT License
 
