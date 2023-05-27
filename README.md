@@ -4,7 +4,7 @@
 
 > **3D Rigibody Movement** is a project I made when I was 12 and learning unity. It was only intended to be shown to my brother, but 2 years later I decided to post it on github as I stopped working with Unity and lost all of the source code of my other projects... 
 >
-> Note also that this project is an adapted version of the older one I made when I was 12, mainly to make it work with the last Unity LTS release (`2021.3.6f1`) and all of the source code is coming from the original one.
+> Note also that this project is an adapted version of the older one I made when I was 12, mainly to make it work with the last Unity LTS release (`2021.3.19f1`) and all of the source code is coming from the original one.
 
 Feel free to take a look at the `Scripts/` folder to take the `PlayerMovement.cs` and put it in your Unity project. 
 
